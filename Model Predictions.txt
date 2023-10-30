@@ -1,0 +1,11 @@
+SVC:
+Mean 0.38965233832955637
+Standard Deviation 0.006666823269267481
+
+GradientBoostingClassifier:
+Mean 0.3664708133359046
+Standard Deviation 0.005272589394373642
+
+RandomForestClassifier:
+Mean 0.37864406077518004
+Standard Deviation 0.007510025793439739
